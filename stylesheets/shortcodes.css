@@ -708,14 +708,15 @@ label.error {
 
 .flat-talk .title-section p {
     font-family: "Poppins", sans-serif;
-    font-size: 35px;
+    font-size: 50px;
     line-height: 55px;
     color: #fff;
     font-weight: 600;
 }
 
 .flat-talk .title-section span {
-    color: #18ba60;
+    /*color: #18ba60;*/
+    color: #0093ff;
 }
 
 /* Flat-fact
@@ -1767,8 +1768,8 @@ label.error {
 
 .flat-services .services-post .item .post p {
     margin-bottom: 15px;
-    font-size: 18px;
-    
+    font-size: 17px;
+
 }
 
 .flat-services .services-post .item .post .comment-reply {

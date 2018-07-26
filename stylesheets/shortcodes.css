@@ -2785,6 +2785,7 @@ label.error {
 
 .contact-content .details p {
     margin-bottom: 1px;
+    color: black;
 }
 
 .contact .comment-form .name-container, .flat-contact-form .input-wrap.name {

@@ -289,8 +289,8 @@ body.style-color {
 
 .flat-icon .icon-post .box-content p {
     /*font-family: "Poppins", sans-serif;*/
-    font-family: Tahoma;
-    font-size: 18px;
+    font-family: Georgia Bold Italic;
+    font-size: 20px;
     /*color: #656565;*/
     color: black;
     line-height: 25px;
@@ -1777,6 +1777,10 @@ label.error {
 .flat-services .services-post .item .post p {
     margin-bottom: 15px;
     font-size: 17px;
+    font-family: Tahoma;
+    color: black;
+
+
 
 }
 

@@ -277,8 +277,9 @@ body.style-color {
 }
 
 .flat-icon .icon-post .box-title .title {
-    font-family: "Poppins", sans-serif;
-    font-size: 15px;
+    /*font-family: "Poppins", sans-serif;*/
+    font-family: Playfair Display;
+    font-size: 17px;
     line-height: 22px;
     font-weight: 600;
     /*color: #222;*/
@@ -289,7 +290,8 @@ body.style-color {
 
 .flat-icon .icon-post .box-content p {
     /*font-family: "Poppins", sans-serif;*/
-    font-family: Georgia Bold Italic;
+    /*font-family: Georgia Bold Italic;*/
+    font-family: Playfair Display;
     font-size: 20px;
     /*color: #656565;*/
     color: black;
@@ -712,13 +714,15 @@ label.error {
     font-family: Playfair Display;
     font-size: 65px;
     line-height: 55px;
-    color: #4fef0f;
+    /*color: #4fef0f;*/
+    color: white;
     font-weight: 600;
 }
 
 .flat-talk .title-section span {
     /*color: #18ba60;*/
-    color: #0012ff;
+    /*color: #0012ff;*/
+    color: white;
    font-family: Playfair Display;
 }
 
@@ -773,6 +777,7 @@ label.error {
     color: #fff;
     text-transform: uppercase;
     margin-bottom: 14px;
+    font-family: Playfair Display;
 }
 
 .flat-fun-fact .iteam-fact .text-fact .comment-reply {
@@ -781,6 +786,7 @@ label.error {
     font-weight: 600;
     line-height: 28px;
     text-transform: uppercase;
+   font-family: Playfair Display;
 }
 
 .flat-fun-fact .iteam-fact .text-fact .comment-reply i {
@@ -1292,10 +1298,11 @@ label.error {
 }
 
 .case-single .post-case-single p {
-    font-size: 18px;
+    font-size: 20px;
     padding-right: 2px;
     line-height: 28px;
     color: black;
+    font-family: Playfair Display;
 }
 
 .case-single .post-case-single.v1 {
@@ -1325,8 +1332,9 @@ label.error {
 
 .case-single .content-post .title-post {
     margin-bottom: 32px;
-    font-size: 18px;
+    font-size: 20px;
     color: black;
+    font-family: Playfair Display;
 }
 
 .case-single.v2 .content-post .title-post {
@@ -1342,10 +1350,11 @@ label.error {
 }
 
 .case-single .content-post .title-post .title {
-    font-size: 22px;
+    font-size: 28px;
     font-weight: 600;
     color: #18ba60;
     margin-bottom: 16px;
+    font-family: Playfair Display;
 }
 
 .case-single.v1 .content-post.v3 .list-post {
@@ -1776,10 +1785,10 @@ label.error {
 
 .flat-services .services-post .item .post p {
     margin-bottom: 15px;
-    font-size: 17px;
-    font-family: Tahoma;
+    font-size: 19px;
+    /*font-family: Tahoma;*/
     color: black;
-
+font-family: Playfair Display;
 
 
 }
@@ -2699,11 +2708,12 @@ label.error {
 }
 
 .flat-help .services-control .post-services p {
-    font-size: 18px;
+    font-size: 21px;
     line-height: 28px;
     margin-bottom: 48px;
     padding: 0 300px;
     color: black;
+   font-family: Playfair Display;
 }
 
 .flat-help .contact-help {
@@ -2776,9 +2786,10 @@ label.error {
 }
 
 .contact-content .details h5 {
-    font-family: "montserrat",sans-serif;
-    font-size: 20px;
-    color: #333333;
+ font-family: Playfair Display;
+    font-size: 22px;
+    /*color: #333333;*/
+    color:#085e9d;
     line-height: 25px;
     margin-bottom: 17px;
 }
@@ -2786,6 +2797,8 @@ label.error {
 .contact-content .details p {
     margin-bottom: 1px;
     color: black;
+    font-size: 18px;
+    font-family: Playfair Display;
 }
 
 .contact .comment-form .name-container, .flat-contact-form .input-wrap.name {

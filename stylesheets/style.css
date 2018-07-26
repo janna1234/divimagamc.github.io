@@ -178,6 +178,7 @@ body {
 }
 
 a {		
+	 font-family: Playfair Display;
 	color: #222;
 	text-decoration: none;
 	-webkit-transition: all 0.3s ease-in-out;
@@ -189,6 +190,7 @@ a {
 
 a:hover,
 a:focus {
+	 font-family: Playfair Display;
 	color: #18ba60;
 	text-decoration: none;
 	outline: 0;
@@ -740,6 +742,7 @@ input[type="color"],
 
 .header #mainnav > ul > li > a {
 	line-height: 100px;
+	font-family: Playfair Display;
 } 
 
 .header.style-v1 #mainnav > ul > li > a {
@@ -1121,6 +1124,7 @@ input[type="color"],
 .breadcrumbs ul li {
     display: inline-block;
     color: #999;
+    font-family: Playfair Display;
 }
 
 .breadcrumbs ul li a:hover {
@@ -1721,6 +1725,7 @@ article .comment.style1 {
 
 .widget.widget-categories.team ul li {
 	background-color: #f1f1f1;
+	font-size: 18px;
 	color: #222;
 	font-weight: 600;
 	border-bottom: none;
@@ -1735,6 +1740,8 @@ article .comment.style1 {
 .widget.widget-categories.team ul li:hover {
 	/*background-color: #3a526a;*/
 	background-color: #085e9d;
+	font-size: 20px;
+		 font-family: Playfair Display;
 	-webkit-transition: all 0.5s ease-in-out;
        -moz-transition: all 0.5s ease-in-out;
         -ms-transition: all 0.5s ease-in-out;
@@ -1744,6 +1751,8 @@ article .comment.style1 {
 
 .widget.widget-categories.team ul li:hover a {
 	color: #fff;
+	font-size: 18px;
+	 font-family: Playfair Display;
 	-webkit-transition: all 0.5s ease-in-out;
        -moz-transition: all 0.5s ease-in-out;
         -ms-transition: all 0.5s ease-in-out;
@@ -2023,15 +2032,17 @@ article .comment.style1 {
 }
 
 .footer-logo .title {
-	font-size: 18px;
+	font-size: 22px;
 	color: #fff;
 	margin-bottom: 15px;
+	font-family: Playfair Display;
 }
 
 .footer-logo p {
-	font-size: 18px;
+	font-size: 21px;
 	color: #888;
 	margin-bottom: 24px;
+	font-family: Playfair Display;
 }
 
 .footer-logo .map a {
@@ -2068,10 +2079,11 @@ article .comment.style1 {
 
 .widget-follow-us .follow-us li a {
 	position: relative;
-	font-family: "Poppins", sans-serif;
-	font-size: 20px;
+	/*font-family: "Poppins", sans-serif;*/
+	font-size: 23px;
 	color: #888;
 	padding-left: 32px;
+	font-family: Playfair Display;
 }
 
 .widget-follow-us .follow-us li a:hover {
@@ -2128,10 +2140,11 @@ article .comment.style1 {
 
 .widget-our-services .our_services li a {
 	position: relative;
-	font-family: "Poppins", sans-serif;
-	font-size: 20px;
+	/*font-family: "Poppins", sans-serif;*/
+	font-size: 23px;
 	color: #888;
 	padding-left: 15px;
+	font-family: Playfair Display;
 }
 
 .widget-our-services .our_services li a:hover {
@@ -2150,8 +2163,8 @@ article .comment.style1 {
 /* widget-subscribe-us */
 .widget-subscribe-us p {
 	margin-bottom: 18px;
-	font-size: 16px;
-	font-family: Tahoma;
+	font-size: 21px;
+font-family: Playfair Display;
 }
 
 .widget-subscribe-us #subscribe-form {

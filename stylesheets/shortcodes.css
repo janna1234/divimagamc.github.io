@@ -709,8 +709,8 @@ label.error {
 }
 
 .flat-talk .title-section p {
-    font-family: "Poppins", sans-serif;
-    font-size: 50px;
+    font-family: Playfair Display;
+    font-size: 65px;
     line-height: 55px;
     color: #fff;
     font-weight: 600;
@@ -718,7 +718,8 @@ label.error {
 
 .flat-talk .title-section span {
     /*color: #18ba60;*/
-    color: #0093ff;
+    color: #0012ff;
+   font-family: Playfair Display;
 }
 
 /* Flat-fact
@@ -1294,6 +1295,7 @@ label.error {
     font-size: 18px;
     padding-right: 2px;
     line-height: 28px;
+    color: black;
 }
 
 .case-single .post-case-single.v1 {
@@ -1324,6 +1326,7 @@ label.error {
 .case-single .content-post .title-post {
     margin-bottom: 32px;
     font-size: 18px;
+    color: black;
 }
 
 .case-single.v2 .content-post .title-post {
@@ -1768,6 +1771,7 @@ label.error {
     font-weight: 600;
     color: #222;
     margin-bottom: 13px;
+
 }
 
 .flat-services .services-post .item .post p {

@@ -1729,7 +1729,8 @@ article .comment.style1 {
 }
 
 .widget.widget-categories.team ul li:hover {
-	background-color: #3a526a;
+	/*background-color: #3a526a;*/
+	background-color: #085e9d;
 	-webkit-transition: all 0.5s ease-in-out;
        -moz-transition: all 0.5s ease-in-out;
         -ms-transition: all 0.5s ease-in-out;

@@ -600,6 +600,8 @@ label.error {
     padding-right: 0;
 }
 
+
+
 .flat-news .company-news .post-list ul li {
     border-top: 1px solid #e5e5e5;
 }
@@ -1303,7 +1305,9 @@ label.error {
     line-height: 28px;
     color: black;
     font-family: Playfair Display;
+    /*color: red;*/
 }
+
 
 .case-single .post-case-single.v1 {
     padding-left: 30px;

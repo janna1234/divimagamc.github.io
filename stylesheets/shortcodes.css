@@ -828,6 +828,7 @@ label.error {
     font-size: 22px;
     line-height: 30px;
     font-family: Parisienne;
+    color: black;
 }
 
 .testimonial-avatar {

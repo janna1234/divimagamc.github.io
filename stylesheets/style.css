@@ -625,7 +625,11 @@ input[type="color"],
 .header .header-wrap .logo {		
 	float: left;
 }
-
+/*Main logo*/
+.logo a div{
+   content:url(../images/logos/d3.png) !important;
+}​
+/*Main logo*/
 /* Header Fix */
 .header.downscrolled {
 	position: fixed;

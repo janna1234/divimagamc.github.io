@@ -881,8 +881,8 @@
 
 @media screen and (max-width: 600px) {
     #images {
-        /*background-color: red;*/
-        /*color: white;*/
-        background-image: url(images/slides/mobile.jpg)!important; 
+       
+        /*background-image: url('images/slides/mobile.jpg')!important; */
+         background-image: url('images/slides/DV BAnner.jpg')!important;
     }
 }

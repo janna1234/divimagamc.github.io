@@ -151,6 +151,8 @@
 /* Mobile Landscape Size */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 
+	
+
 	.title-section .title {
 		font-size: 31px;
 	}
@@ -869,5 +871,18 @@
 }
 
 @media (max-width: 320px) {	
+
+
+
 }
 
+
+
+
+@media screen and (max-width: 600px) {
+    #images {
+        /*background-color: red;*/
+        /*color: white;*/
+        background-image: url(https://unsplash.imgix.net/photo-1414490929659-9a12b7e31907)!important; 
+    }
+}
